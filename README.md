@@ -8,7 +8,6 @@ It includes interactive dashboards to help educators analyze grades, subject-wis
 ## 📂 Project Files
 
 - `Student-Result-Visualization.pbix` – Power BI dashboard report
-- `student-result-report.pdf` – (Optional) PDF version for presentation/demo
 
 ---
 
@@ -23,9 +22,9 @@ It includes interactive dashboards to help educators analyze grades, subject-wis
 
 ## ⚙️ Tools Used
 
-- **Power BI Desktop** – For report creation and visualization
-- **Excel** – For dataset preparation
-- **DAX** – For grade calculation and average logic
+- Power BI Desktop
+- Excel (for dataset)
+- DAX for calculated grades and averages
 
 ---
 
@@ -42,18 +41,9 @@ It includes interactive dashboards to help educators analyze grades, subject-wis
 
 ---
 
----
+## 👩‍💻 Author
 
-## 👤 Author
-
-- **Name**: *[Ayushi Raj]*  
-- **GitHub**: [https://github.com/ayushiraj9097383508](https://github.com/ayushiraj9097383508)  
+- **Name**: Ayushi Raj  
+- **Roll No**: ayushi_2312res216@iitp.ac.in  
+- **Class**: B.Sc. 4th Semester  
 - **Year**: 2025
-
----
-
-## ✅ Status
-
-> 🔵 Project Completed  
-> 📁 Ready to Submit  
-
