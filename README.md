@@ -47,7 +47,7 @@ It includes interactive dashboards to help educators analyze grades, subject-wis
 ## 👤 Author
 
 - **Name**: *[Ayushi Raj]*  
-- **GitHub**: [https://github.com/ayushiraj9097383508-igtm](https://github.com/ayushiraj9097383508-igtm)  
+- **GitHub**: [https://github.com/ayushiraj9097383508](https://github.com/ayushiraj9097383508)  
 - **Year**: 2025
 
 ---
